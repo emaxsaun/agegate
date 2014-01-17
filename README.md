@@ -4,7 +4,7 @@ AgeGate
 About this Plugin:
 ==========
 
-The AgeGate plugin presents users with a prompt asking them to enter their birthday. If the users are older than the required age, they may watch the video. Otherwise, they are taken to a different page and are unable to view the video with under-aged viewers. Share AgeGate with your friends and prevent under-aged viewers from watching NSFW content.
+The AgeGate plugin is a JW Player Plugin that presents users with a prompt asking them to enter their birthday. If the users are older than the required age, they may watch the video. Otherwise, they are taken to a different page and are unable to view the video with under-aged viewers. Share AgeGate with your friends and prevent under-aged viewers from watching NSFW content.
 
 ###[Demo](http://www.pluginsbyethan.com/github/agegate.html)
 
