@@ -13,19 +13,19 @@ Configuration Options:
 
 This plugin supports additional configuration options via flashvars.
 
-agegate.minage: Minimum age of the viewer - Default is 18
-agegate.maxage: Maximum age of the viewer - Default is 100. Note: Do not set the date to before 1900.
-agegate.message: The message displayed if you do not meet the age criteria. - Default is You do not meet the age criteria for this video.
-agegate.redirecturl: The link provided if you do not meet the age criteria. Note: You will have to click the message to be redirected.
-agegate.redirecttarget: The target to open redirecturl in - Default is _blank
-agegate.backgroundcolor: Color of the curtain that covers the player - Default is #000000
-agegate.textcolor: Color of the text displayed on screen - Default is #FFFFFF
-agegate.subheadertextcolor: Color of the subheader text - Default is #FFCC00
-agegate.messagetextcolor: Color of the message text - Default is #FF0000
-agegate.cookielife: How long to set the cookie for. Default is 60 minutes.
-agegate.header: Header Text - Default is - The content in this video requires age verification.
-agegate.subheader: Subheader Text - Default is - Please enter your date of birth below:
-agegate.autoredirect: If you want to automatically redirect the user to the redirecturl if they do not meet the age criteria. The default is false, but set to true, if you want to enable this feature.
+agegate.minage: Minimum age of the viewer - Default is 18<br />
+agegate.maxage: Maximum age of the viewer - Default is 100. Note: Do not set the date to before 1900.<br />
+agegate.message: The message displayed if you do not meet the age criteria. - Default is You do not meet the age criteria for this video.<br />
+agegate.redirecturl: The link provided if you do not meet the age criteria. Note: You will have to click the message to be redirected.<br />
+agegate.redirecttarget: The target to open redirecturl in - Default is _blank<br />
+agegate.backgroundcolor: Color of the curtain that covers the player - Default is #000000<br />
+agegate.textcolor: Color of the text displayed on screen - Default is #FFFFFF<br />
+agegate.subheadertextcolor: Color of the subheader text - Default is #FFCC00<br />
+agegate.messagetextcolor: Color of the message text - Default is #FF0000<br />
+agegate.cookielife: How long to set the cookie for. Default is 60 minutes.<br />
+agegate.header: Header Text - Default is - The content in this video requires age verification.<br />
+agegate.subheader: Subheader Text - Default is - Please enter your date of birth below:<br />
+agegate.autoredirect: If you want to automatically redirect the user to the redirecturl if they do not meet the age criteria. The default is false, but set to true, if you want to enable this feature.<br />
 
 Implementing this Plugin:
 ==========
